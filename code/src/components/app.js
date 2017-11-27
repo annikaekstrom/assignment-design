@@ -48,6 +48,9 @@ class App extends React.Component {
                   Carl More<br/>
                   Oct
                   </div>
+                  <div className="bookmark">
+                  <img src="/images/bookmark.png"/>
+                  </div>
                 </div>
               </div>
             </div>
@@ -67,6 +70,9 @@ class App extends React.Component {
                   <div className="name">
                   <strong>Ben Bland</strong><br/>
                   Oct 27 8 min read
+                  </div>
+                  <div className="bookmark">
+                  <img src="/images/bookmark.png"/>
                   </div>
                 </div>
               </div>
@@ -88,6 +94,9 @@ class App extends React.Component {
                 <strong>Henry Wismayer</strong><br/>
                 Nov 1 7 min read
                 </div>
+                <div className="bookmark">
+                <img src="/images/bookmark.png"/>
+                </div>
               </div>
             </div>
           </div>
@@ -106,6 +115,9 @@ class App extends React.Component {
                   <div className="name">
                     <strong>Lindsey Smith</strong><br/>
                       Nov 9 31 min read
+                  </div>
+                  <div className="bookmark">
+                  <img src="/images/bookmark.png"/>
                   </div>
               </div>
             </div></div>
